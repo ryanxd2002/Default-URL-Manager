@@ -28,3 +28,4 @@ e.x.
 1. Add extension mapping for chrome features i.e. chrome://history
     - currently url autocomplete maps this feature incorrectly
 2. Write a more thorough README
+3. Do thorough unit testing
