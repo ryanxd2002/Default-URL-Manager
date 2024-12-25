@@ -15,11 +15,13 @@ e.x.
 5. select the file you downloaded from github
 6. (optional) just to the right of the search bar, press the       'extensions' icon and pin this extension to the taskbar
 
-## Features
+## Usage
 1. Set the keyword you want to use to search for a particular url in the "Keyword" section
 2. Set the url you want
     - *Note: there is url autocomplete*
 3. press add, this will add this keyword - url combination
+5. type "go" + " " to activate custom url manager
+6. type in the keyword and press Enter
 4. press delete to remove
 
 ## Further development
